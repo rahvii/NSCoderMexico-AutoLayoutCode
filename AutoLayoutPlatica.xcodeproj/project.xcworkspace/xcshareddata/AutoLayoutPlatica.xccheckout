@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DD1E4B48-FF40-45DC-842E-2367459A84A7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AutoLayoutPlatica</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5C9F1A9D0A5BE45BB53403A8842F5DD5B08833FF</key>
+		<string>https://github.com/rahvii/NSCoderMexico-AutoLayoutCode</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AutoLayoutPlatica.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5C9F1A9D0A5BE45BB53403A8842F5DD5B08833FF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rahvii/NSCoderMexico-AutoLayoutCode</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5C9F1A9D0A5BE45BB53403A8842F5DD5B08833FF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5C9F1A9D0A5BE45BB53403A8842F5DD5B08833FF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AutoLayoutPlatica</string>
+		</dict>
+	</array>
+</dict>
+</plist>
